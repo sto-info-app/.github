@@ -12,13 +12,10 @@ This is an actively developed project. Features, data coverage, and internal too
 
 ## Live availability
 
-### Backend
-[![Uptime status](https://img.shields.io/uptimerobot/status/m802169058-d230a9a973c1eef1de28ed63.svg)](https://status.startrekonline.info/)
-[![Uptime 30 days](https://img.shields.io/uptimerobot/ratio/m802169058-d230a9a973c1eef1de28ed63.svg)](https://status.startrekonline.info/)
-
-### Frontend
-[![Uptime status](https://img.shields.io/uptimerobot/status/m802169070-054df85f9c4a66231e51da43.svg)](https://status.startrekonline.info/)
-[![Uptime 30 days](https://img.shields.io/uptimerobot/ratio/m802169070-054df85f9c4a66231e51da43.svg)](https://status.startrekonline.info/)
+| Service | Status | Uptime (30 days) |
+|---|---|---|
+| Backend APIs | [![Uptime status](https://img.shields.io/uptimerobot/status/m802169058-d230a9a973c1eef1de28ed63.svg)](https://status.startrekonline.info/) | [![Uptime 30 days](https://img.shields.io/uptimerobot/ratio/m802169058-d230a9a973c1eef1de28ed63.svg)](https://status.startrekonline.info/) |
+| Frontend | [![Uptime status](https://img.shields.io/uptimerobot/status/m802169070-054df85f9c4a66231e51da43.svg)](https://status.startrekonline.info/) | [![Uptime 30 days](https://img.shields.io/uptimerobot/ratio/m802169070-054df85f9c4a66231e51da43.svg)](https://status.startrekonline.info/) |
 
 ## Repositories
 
