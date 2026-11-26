@@ -19,18 +19,21 @@ This is an actively developed project. Features, data coverage, and internal too
 
 ## Repositories
 
-The organisation currently contains multiple related repositories, including:
+| Repository | What it is | Build |
+|---|---|---|
+| [sto-info-frontend](https://github.com/sto-info-app/sto-info-frontend) | The website (Angular) | [![Lint and Test](https://github.com/sto-info-app/sto-info-frontend/actions/workflows/lint-test.yml/badge.svg?branch=development)](https://github.com/sto-info-app/sto-info-frontend/actions/workflows/lint-test.yml) |
+| [sto-info-backend](https://github.com/sto-info-app/sto-info-backend) | The API (NestJS) | [![Lint and Test](https://github.com/sto-info-app/sto-info-backend/actions/workflows/lint-test.yml/badge.svg?branch=development)](https://github.com/sto-info-app/sto-info-backend/actions/workflows/lint-test.yml) |
+| [sto-info-file-scan-worker](https://github.com/sto-info-app/sto-info-file-scan-worker) | The background worker that virus-scans uploaded files before the site uses them (NestJS) | [![Lint and Test](https://github.com/sto-info-app/sto-info-file-scan-worker/actions/workflows/lint-test.yml/badge.svg?branch=development)](https://github.com/sto-info-app/sto-info-file-scan-worker/actions/workflows/lint-test.yml) |
+| [sto-info-wiki](https://github.com/sto-info-app/sto-info-wiki) | The central wiki: architecture, roadmap and contributor onboarding | |
 
-- Frontend (Angular)
-- Backend API (NestJS)
-- *coming soon* Background workers and supporting services
+Some supporting tooling is kept in private repositories.
 
 Each repository contains its own README with setup and development details.
 
 ## Contributing
 
 Contributions are welcome, including code, documentation, testing, and general review.  
-Please see `CONTRIBUTING.md` for guidance on how to get involved.
+Please see [CONTRIBUTING.md](https://github.com/sto-info-app/.github/blob/main/CONTRIBUTING.md) for guidance on how to get involved.
 
 ## Disclaimer
 
